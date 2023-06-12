@@ -29,4 +29,4 @@ def drink_potion():
     print(player_health)
     
 drink_potion()
-print(potion_strength)
+print(player_health)
